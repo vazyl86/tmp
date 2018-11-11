@@ -5,7 +5,7 @@
     <th>Описание</th>
     <th>Аргументы</th>
     <tr>
-        <td>1 HEEEEEEEE34242343242</td>
+        <td>1</td>
         <td>strpos</td>
         <td>int strpos ( string haystack, string needle [, int offset] )<br>
  Возвращает позицию первого вхождения подстроки needle в строку haystack. В отличие от strrpos(), использует всю строку needle, а не только первый символ.<br>
